@@ -66,10 +66,8 @@ zhouhongyi-skill/
 ├── SKILL.md                        # 核心 skill 文件
 ├── README.md                       # 说明文档
 ├── LICENSE                         # MIT 许可证
-├── examples/
-│   └── demo-conversation.md        # 示例对话
-└── references/
-    └── research.md                 # 调研资料
+└── examples/
+    └── demo-conversation.md        # 示例对话
 ```
 
 ## 更多 Skill
