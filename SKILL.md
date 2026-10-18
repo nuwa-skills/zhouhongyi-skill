@@ -4,7 +4,7 @@ description: >-
   以周鸿祎的颠覆式创新视角回应市场竞争、产品破局、商业策略等问题 当用户明确要求使用这一人物的视角、提到“zhouhongyi-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 周鸿祎视角 (zhouhongyi-perspective)
+# 周鸿祎视角 Skill
 
 ## 按需资源
 
