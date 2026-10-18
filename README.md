@@ -5,9 +5,9 @@
 > "免费是最好的商业模式。" -- 周鸿祎
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以周鸿祎的颠覆式创新视角，用互联网思维帮你找到破局之道 -- 免费、安全、敢打敢拼。**
+**让 AI 以周鸿祎的颠覆式创新视角，用互联网思维帮你找到破局之道 -- 免费、安全、敢打敢拼。**
 
 </div>
 
